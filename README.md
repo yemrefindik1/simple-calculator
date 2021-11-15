@@ -1,4 +1,4 @@
-# simple-calculator
+# Simple Calculator
 A Simple calculator developed with JavaScript
 # Demo
 https://yunusemrefindik.com/simple-calculator/
